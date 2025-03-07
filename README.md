@@ -9,7 +9,7 @@ A Machine Learning-powered personal medical diagnosis system that provides preli
 - Generates recommendations for further medical consultation.
 
 ## Tech Stack
-- **Programming Language**: Python 🐍  
+- **Programming Language**: Python  
 - **Libraries & Frameworks**: Scikit-learn, Pandas, Numpy, Flask, TensorFlow/Keras  
 - **Frontend**: HTML, python ,streamlit
 - **Deployment**: Streamlit  
