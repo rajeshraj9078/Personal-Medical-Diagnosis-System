@@ -27,6 +27,7 @@ A Machine Learning-powered personal medical diagnosis system that provides preli
 
 * App:
   
-  ![thamnel](https://github.com/user-attachments/assets/43bbbac6-3916-443c-8be3-17b9479cc846)
+![thamnel](https://github.com/user-attachments/assets/ba7d1e92-661a-4953-8e84-16991445f60d)
+
 
 
