@@ -11,23 +11,8 @@ A Machine Learning-powered personal medical diagnosis system that provides preli
 ## 🛠️ Tech Stack
 - **Programming Language**: Python 🐍  
 - **Libraries & Frameworks**: Scikit-learn, Pandas, Numpy, Flask, TensorFlow/Keras  
-- **Frontend**: HTML, CSS, JavaScript ,python ,streamlit
+- **Frontend**: HTML, python ,streamlit
 - **Deployment**: Streamlit  
-
-## Project structure 
-
-**📦 Personal-Medical-Diagnosis**
-├── 📁 dataset
-│   ├── medical_data.csv
-├── 📁 models
-│   ├── trained_model.pkl
-├── 📁 static
-│   ├── styles.css
-├── 📁 templates
-│   ├── index.html
-├── app.py
-├── requirements.txt
-├── README.md
 
 ##📊 Machine Learning Model
 - Uses **Random Forest / Decision Tree** for predictions.
