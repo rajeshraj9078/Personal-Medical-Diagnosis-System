@@ -19,8 +19,10 @@ A Machine Learning-powered personal medical diagnosis system that provides preli
 - Trained on **medical symptom datasets** to classify possible diseases.
 - Implements **feature engineering** for better accuracy.
 
-**Run:**
-![run](https://github.com/user-attachments/assets/7530e4c9-fb78-4842-a06d-2a385b2c7ba0)
+**Code Run:**
+
+![run](https://github.com/user-attachments/assets/ff3243a9-82cc-4279-94e5-69cba4dc0af4)
+
 
 
 * App:
